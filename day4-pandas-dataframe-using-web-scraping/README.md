@@ -13,9 +13,6 @@
 * Data Cleaning
 
 ---
-📌 What is Web Scraping?
-
-Web scraping is the process of extracting data from websites by sending HTTP requests and parsing HTML content.
 
 # 🧠 🔰 BASIC QUESTIONS
 
